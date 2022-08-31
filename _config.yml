@@ -1,35 +1,27 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+name: "Randy Ofosu"
+title: "Randy Ofosu"
+description: "Welkom bij mijn open logboek."
+logo: 'assets/images/Randus Logo.png'
+favicon: 'assets/images/Randus Logo.png'
+baseurl: ''
+google_analytics: 'UA-176723044-1'
+# disqus: 'demowebsite'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: hi@randyofosu.nl
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+  randy:
+    name: Randy
+    display_name: Randy Ofosu
+    avatar: 'assets\images\photo_2021-08-30_14-35-42 (3).jpg'
+    email: hi@randyofosu.nl
+    youtube: https://www.youtube.com/channel/UCNgqL7spRbeniKsQlVu-pTQ
+    twitter: https://twitter.com/ogsenatah
+    description: "Nuchtere Nederlander, nieuwsgierig naar hoe de vork in de steel zit."
 
 # Plugins
 plugins:

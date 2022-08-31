@@ -3,6 +3,7 @@ layout: default
 disqus: false
 archive: false
 post_class: post-template
+comment: false
 ---
 
 <div class="entry-header">
@@ -20,7 +21,7 @@ post_class: post-template
             {% endif %}
         </div>            
         <div>
-        Written by {{ author.display_name }} on 
+        Geschreven door {{ author.display_name }} op 
         <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
         {% if page.last_modified_at %}
         (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)

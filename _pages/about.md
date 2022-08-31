@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Waar gaat deze blog over? 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets\images\photo_2022-08-22_10-55-35.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+Mijn blog gaat over alles wat ik zou willen delen met jullie op het internet. Ik neem eigendom over mijn ideeën, uitstraling en expertise. Advertentiebureaus vermomd als social media platformen kunnen leuk zijn, maar voldoen niet helemaal aan mijn wensen. Dus wil ik via deze format een stuk van mijzelf aan jullie geven.
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<a target="_blank" href="/Waarom-zou-je-een-blog-starten" class="btn btn-dark"> Nog meer voordelen bij het beginnen van een blog &rarr;</a>
 
