@@ -105,7 +105,7 @@ Ik heb ook de definitieve keuze gemaakt om _selfhelp_ boeken te ontwijken. De la
 Dit is een deel van de nummers waar ik op heb geleefd het afgelopen jaar. Het is zeker niet een volledig plaatje maar wel representatief aan de stemmingen die ik had het afgelopen jaar. Dit jaar was voor mij erg in het teken van zoeken naar authenticiteit. Muziek die uniek is maar niet verder op wordt geïtereerd omdat het gevoel nooit meer op dezelfde manier te grijpen is. Dat is echt moeilijk vooral in deze tijd, maar niet onmogelijk.
 
 ## Soul
-Ik heb geluk met Soul want hier vind je nummers die niet echt te omschrijven zijn in een bepaalde genre. Het muziek dat best omschrijft hoe het is om een mens te zijn en licht aspecten uit van ons leven waar we allemaal mee dealen. 
+Ik heb geluk met Soul want hier vind je nummers die niet echt te omschrijven zijn in een bepaalde genre. Het muziek dat best omschrijft hoe het is om een mens te zijn en het licht aspecten uit van ons leven waar we allemaal mee dealen. 
 
 Good days is een mooi voorbeeld: Ook al lijk je een fatalistische kijk te hebben op jouw situatie, geloof je nog steeds in de komst van betere dagen. 
 
