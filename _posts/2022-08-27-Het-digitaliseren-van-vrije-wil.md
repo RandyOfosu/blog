@@ -80,7 +80,8 @@ Dus heb ik wel empathie voor Blake.
 
 # Conclusie
 
-Zou Google Earth zich ooit afvragen of de aarde plat is? Zou Tinder stiekem verliefd zijn op Bumble? Zou de zelfscankassa bij de Albert Heijn ooit geneigd zijn om te stelen uit de kas bij zijn/haar/het/hen werkgever -- zou een computer überhaupt denken aan diens geslacht? Denk het niet, want computers kunnen alleen doen wat je het programmeert om te doen. Maar is mijn antwoord hetzelfde op de vraagstelling of dit *ooit* mogelijk zou zijn? **i** **d** **k** ¯\\\_(ツ)_/¯ 
+Zou Google Earth zich ooit afvragen of de aarde plat is? Zou Tinder stiekem verliefd zijn op Bumble? Zou de zelfscankassa bij de Albert Heijn ooit geneigd zijn om te stelen uit de kas bij zijn/haar/het/hen werkgever -- zou een computer überhaupt denken aan diens geslacht? Denk het niet, want computers kunnen alleen doen wat je het programmeert om te doen. Maar is mijn antwoord hetzelfde op de vraagstelling of dit *ooit* mogelijk zou zijn? \
+ **i** **d** **k** ¯\\\_(ツ)_/¯ 
 
 Misschien behaald AI pas een vrije wil na projecten die de mens combineert met het digitale, zoals Meta's Horizon Worlds of Elon Musk's Neuralink. Mede door het paplepelen van onze persoonsgegevens.
 
