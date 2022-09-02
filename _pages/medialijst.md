@@ -27,7 +27,7 @@ Desalniettemin, wil ik hierom mijn _gehele_ dieet delen. Zelfs de dingen die nie
 ## Principles
 Ray Dalio kwam ik tegen op YouTube, ik ben getrokken tot zijn manier van uitleggen van overgecompliceerde dingen. Dus heb besloten om zijn boeken te kopen, want zijn invalshoek van financiën is gegrond in wat mensen doen op natuurlijk gebied. Daar kon ik mij enigszins bij aansluiten. 
 
-Dit boek is eigenlijk 3 boeken in 1. Deel 1 gaat over zijn eigen leven, deel 2 gaat over zijn principes die hij hanteerd in zijn privé leven en deel 3 zijn zakelijke principes. De fysieke kwaliteit van het boek is echt nice. 
+Dit boek is eigenlijk 3 boeken in 1. Deel 1 gaat over zijn eigen leven, deel 2 gaat over zijn principes die hij hanteert in zijn privé leven en deel 3 zijn zakelijke principes. De fysieke kwaliteit van het boek is echt nice. 
 
 Door corona heb ik juist veel menselijk contact gehad door online gamen en Discord. Dus wou ik mezelf "rebooten" met dit boek. Ik heb alleen uit deel 2 gelezen.
 
