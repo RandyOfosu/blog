@@ -1,7 +1,7 @@
 # Site
 name: "Randy Ofosu"
 title: "Randy Ofosu"
-description: "Welkom bij mijn open logboek."
+description: "Welkom bij mijn open logboek, eeuwig onder constructie."
 logo: 'assets/images/Randus Logo.png'
 favicon: 'assets/images/Randus Logo.png'
 baseurl: ''
@@ -18,10 +18,10 @@ authors:
     name: Randy
     display_name: Randy Ofosu
     avatar: 'assets\images\photo_2021-08-30_14-35-42 (3).jpg'
-    email: hi@randyofosu.nl
+    email: libertas5711@proton.me
     youtube: https://www.youtube.com/channel/UCNgqL7spRbeniKsQlVu-pTQ
     twitter: https://twitter.com/ogsenatah
-    description: "Nuchtere Nederlander, nieuwsgierig naar hoe de vork in de steel zit."
+    description: "Nuchtere Nederlander, System Integrator en nieuwsgierige observant."
 
 # Plugins
 plugins:
