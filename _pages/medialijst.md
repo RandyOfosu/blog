@@ -32,21 +32,21 @@ Dit boek is eigenlijk 3 boeken in 1. Deel 1 gaat over zijn eigen leven, deel 2 g
 Door corona heb ik juist veel menselijk contact gehad door online gamen en Discord. Dus wou ik mezelf "rebooten" met dit boek. Ik heb alleen uit deel 2 gelezen.
 
 ## Letters from a stoic
-Dit boek is de perfecte formaat voor in het OV. Dit boek lees ik sporadisch en laat vaak achter op plaatsen in het huis waar ik graag ben. Ik kan het dan altijd even willekeurig op pakken en 3/4 bladzijdes lezen. 
+Dit boek is het perfecte formaat voor in het OV. Dit boek lees ik sporadisch en laat ik vaak achter op plaatsen in het huis waar ik graag ben. Ik kan het dan altijd even willekeurig op pakken en 3/4 bladzijdes lezen. 
 
-Het is een collectie van brieven die Seneca stuurt naar zijn leerling dus zijn het meestal verhalen. Seneca geeft me Jordan clean your room vibes want de brieven lezen alsof je instructies krijgt van een strenge vaderfiguur.
+Het is een collectie van brieven die Seneca stuurt naar zijn leerling dus zijn het meestal verhalen. Seneca geeft me _Jordan clean your room vibes_ want de brieven lezen alsof je instructies krijgt van een strenge vaderfiguur.
 
 Soms heb je wel even een persoon in je hoek nodig die je vertelt hoe het zit zonder het te verbloemen. 
 
 ## The Richest Man of Babylon
-Dit is zonder debat mijn favoriete boek in de hele wereld. Ik herlees het jaarlijks. het is een klein boek dus die neem ik ook vaak mee. Die van mij is ook helemaal aanzienlijk veel gebruikssporen. 
+Dit is zonder debat mijn favoriete boek van de hele wereld (misschien gelijkspel met de Alchemist). Ik herlees het jaarlijks. het is een klein boek dus die neem ik ook vaak mee. Die van mij heeft ook aanzienlijk veel gebruikssporen. 
 
-Ik hou van goede verhalen en dit boek heeft dat. Het gaat ook over veel meer dan geld. Het gaat over kernprincipes en concequenties bij het niet volgen ervan en nog veel meer. 
+Ik hou van goede verhalen en dit boek heeft dat. Het gaat ook over veel meer dan geld. Het gaat over kernprincipes en consequenties bij het niet volgen ervan en nog veel meer. 
 
-Elk jaar dat ik het lees net iets anders. Dit is een aankoop die echte moeite waard was en dat heb ik met weinig dingen.
+Elk jaar dat ik het lees is het net iets anders. Dit is een aankoop die echte moeite waard was en dat heb ik met weinig dingen.
 
 ## De kunst van Kaizen
-Dit is 1 van de weinige boeken die ik heb die is vertaald naar het Nederlands. Ik snap nu ook wel waarom dat zo is haha.. 
+Dit is 1 van de weinige boeken die ik heb, die is vertaald naar het Nederlands. Ik snap nu ook wel waarom dat zo is haha.. 
 
 De kunst van Kaizen is zo'n boek dat je iets leert en het dan in 10 verschillende scenario's laat zien. Dat kan mij frustreren want ik snap het bij de eerste al en het demotiveerd me dan om verder te lezen wat Robert Maurer me te vertellen heeft.
 
@@ -55,9 +55,9 @@ Ik gaf het een kans dit jaar maar de schrijfstijl heeft mij gedemotiveerd tot ee
 Daarbij is Kaizen wel uniek want het is een Amerikaans beïnvloedde filosofie. Meestal is een Japanse filosofie van Oosters oorsprong.
 
 ## The Hero's Journey
-Dit is een boek dat ik heb gekocht omdat ik nieuwsgierig was naar hoe Pendleton Ward en Dan Harmon hun inspiratie uit konden halen. 
+Dit is een boek dat ik heb gekocht omdat ik nieuwsgierig was naar hoe Pendleton Ward en Dan Harmon hun inspiratie haalde uit dit boek. 
 
-Voor men die het niet kent, the Hero's Journey is een verhaalstructuur dat vaker voor komt in het vertellen van verhalen. Dit boek is van Joseph Campbell is eigenlijk een hele lange interview in hoe hij eigenlijk is gekomen tot deze conclusie.
+Voor men die het niet kent, the Hero's Journey is een verhaalstructuur dat vaker voor komt in het vertellen van verhalen. Dit boek van Joseph Campbell is eigenlijk een hele lange interview in hoe hij eigenlijk is gekomen tot deze formule.
 
 Joseph Campbell is een literatuurwetenschapper en probeerde te synthetiseren wat de constante patroon was van alle verhalen waar wij met z'n alle van houden. Zo kwam hij dus op het _The Hero with a Thousand Faces_ in 1949 (ook een boek op mijn verlanglijst). 
 
@@ -72,22 +72,22 @@ Nog een boek die ik ben tegen gekomen op YouTube. Ik kijk naar veel video-essayi
 Dit boek heeft mijn nieuwsgierigheid weten te pieken. Het gaat over hetgeen dat claimed "ik" te zijn. Iedereen heeft een "ik" maar waar komt die gedachte vandaan en hoeveel invloed heeft het op wie we zijn (en niet zijn).
 
 Vragen zoals:
-- Zijn alle cellen waar ik uit besta de "ik"?
+- Zijn _alle_ cellen waar ik uit besta de "ik"? of een deel en hoe groot of klein?
 - Ben ik wie ik ben omdat ik doe wat ik doe?
-- Ben ik de start van alle evenementen in mijn leven?
+- Ben ik de start van alle evenementen in mijn leven of andersom?
 
-Komen dan naar boven maar worden niet "echt" beantwoord, het zijn eerder gedachte expirimenten. Ik heb geleerd dat dit soort boeken goed zijn voor mijn creativiteit. Want naast dat Douglas Hofstadter een hele interessante persoon is, komen gedachte experimenten zoals deze tot hun eigen conclusies die wel raakvlakken met objectieve waarheden.
+Komen dan naar boven maar worden niet "echt" beantwoord, het zijn eerder gedachte expirimenten. Ik heb geleerd dat dit soort boeken goed zijn voor mijn creativiteit. Want naast dat Douglas Hofstadter een hele interessante persoon is, komen gedachte experimenten zoals deze tot hun eigen conclusies die wel raakvlakken hebben met objectieve waarheden.
 
 Ik ben nog lang niet klaar met het boek, maar ik heb ook geen spijt dat ik er aan ben begonnen.
 
 Daarbij, wat kan er nou interessanter zijn dan "ik"?
 
 ## My Life and Work
-Tijdens corona vroeg ik mijn kennis via Discord wat hij vond van miljonairs/miljardairs. Hij zei dat ie ervan overtuigd is dat elke miljonair/miljardair slecht. Omdat je daar niet kan komen **en blijven** zonder een vorm van negatieve exploitatie. Je bent als miljonair/miljardair willens en wetens voor je eigen gewin eten en kansen van anderen aan het ontnemen. Zulke constructies worden dan in stand gehouden door anderen waarmee je onder een hoedje speelt.
+Tijdens corona vroeg ik mijn kennis wat hij vond van miljonairs/miljardairs. Hij zei dat ie ervan overtuigd is dat elke miljonair/miljardair slecht is. Omdat je daar niet kan komen **en blijven** zonder een vorm van exploitatie dat een negatieve effect heeft op de maatschappij of de natuur. Je bent als miljonair/miljardair willens en wetens voor je eigen gewin eten en kansen van anderen aan het ontnemen. Zulke constructies worden dan in stand gehouden door anderen waarmee je onder een hoedje speelt.
 
 Wat mijn kennis zei was mij toen bijgebleven. Hij is iemand die nooit zoveel zegt en daarbij een intelligente guy is. Ik heb daarom besloten om de autobiografiëen van welvarende pioniers te lezen. Ik vertrouw op mijn kunnen van het doorzien van propaganda.
 
-Dus hierom Henry Ford, Amerikaanse industrieel. Zelf vraag ik me af of het nodig is om mensen te laten lijden om te behalen wat je in gedachte hebt.
+Dus hierom Henry Ford, Amerikaanse industrieel revolutionaire. Zelf vraag ik me af of het nodig is om mensen te laten lijden om te behalen wat je in gedachte hebt.
 
 Hebben mensen uit zichzelf niet genoeg intrinsieke motivatie om het anders dan voor elkaar te krijgen? 
 
@@ -96,7 +96,7 @@ Ik ben nog niet door zijn biografie maar tot nu toe heb ik het idee dat hij veel
 ### Bijzonderheden boekenlijst 2022
 Wat ik dit jaar heb besloten was het wegdoen van al mijn boeken die betrekking hadden tot ondernemenschap. Dat is omdat ik niet geïnteresseerd meer ben in de kunst van het behalen van goederen. Ik heb denk ik wel het idee dat ik weet hoe men elkaar kan overtuigen om een aankopen te doen. 
 
-Boeken die gaan over bedrijfsstructuren en best practises zoals _The Effective Executive_ hou ik er wel bij. Het gaat eerder om alle boeken die zeggen "maak veel geld door dit te doen" daar wil ik liever afstand van nemen.
+Boeken die gaan over bedrijfsstructuren en best practises zoals _The Effective Executive_ hou ik er wel bij. Het gaat eerder om alle boeken die zeggen "maak veel geld door dit te doen, want dan pas word je gelukkig" daar wil ik liever afstand van nemen.
 
 Ik heb ook de definitieve keuze gemaakt om _selfhelp_ boeken te ontwijken. De laatste tijd kom ik boeken tegen waar de auteurs hun inspiratie vandaan hebben gehaald. Denk dan aan Robert Kiyosaki en the Richest Man of Babylon. Ik heb geleerd dat verhalen beter blijven hangen bij mij en de moralen hiervan schalen naderhand van de ervaringen die ik heb opgedaan in mijn leven. Dat "schalen" gebeurt voor mij niet bij selfhelp boeken.
 
