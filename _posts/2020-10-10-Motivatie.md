@@ -28,7 +28,8 @@ Je zal nog een paar jaar moeten wachten voor je jezelf mechanisch mag verbouwen 
 Natuurlijk kan je niet constant afstanden verleggen, je houdt jouw motor toch ook niet 24/7 aan. Hiervoor hebben we dan rust en recreatie. Zie dat als een tankstation waar jij jezelf kan opladen. In deze rustperiode kan je dan even de kaart open slaan.
 
 > "Discipline is doing what you hate to do, but do it like you love it."
-<br>-- Cus D'amato.
+>
+>-- Cus D'amato.
 
 Aanbevolen boeken hierover:
 - Discipline Equals Freedom(2017): Jocko Willink | ISBN: 9781250156945
