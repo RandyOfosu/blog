@@ -25,7 +25,7 @@ Adequate documentatie is bijna niet te betwisten. Geen bewijs, geen eis. Denk aa
 Stel je bent klaar met school en wilt aan de bak, wellicht wil je een bedrijf met allemaal klanten of stel je werkt al en wilt een hogere functie.
 **Hoe** ga jij bewijzen aan jouw (toekomstige) werkgever dat jij weet, wat je weet en dat jij kan, wat je kan.
 
-Een online document die jouw kunnen tentoonstelt kan hiervoor handig zijn. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media is gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties.
+Een online document die jouw kunnen tentoonstelt kan hiervoor handig zijn. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media wordt dan gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dus dat scheelt jouw werkgever constant rondbellen naar referenties.
 
 ## Het helpt bij jouw persoonlijke leerproces.
 
@@ -37,13 +37,15 @@ Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:tex
 
 Het is wel duidelijk dat deze punten allemaal kunnen vallen onder het bloggen. 
 
+Als je kan moet je altijd schrijven voor goedkeuring. Je wordt gedwongen om na te denken voordat je schrijft omdat je weet dat er kritische blikken zijn die meekijken. Dit soort druk doet je alleen maar ten goede omdat je elke _net_ buiten je kunnen moet werken.
+
 ## Alles wat je niet gebruikt raak je kwijt.
 
 Als je niet blijft schrijven zal je het verleren. Met een blog blijft het niet alleen vers in je repertoire maar zal je het versterken. Je zal jezelf betrappen op stijlfouten en wilt niet telkens dezelfde woorden gebruiken. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met _repertoire_.
 
-Schrijven draagt ook bij aan jouw spraak dus als jij een hakkelige spreker bent zal dit jou enorm helpen.
+Schrijven draagt ook bij aan jouw spraak dus als jij een hakkelige spreker bent, zal dit jou enorm helpen.
 
-Elke vorm van communicatie met de mens moet je meesteren. Dat is alleen als je een makkelijk leven wilt natuurlijk.
+Elke vorm van communicatie met de mens moet jij je eigen maken (meesteren). Mits je een makkelijk leven wilt natuurlijk.
 
 ## Het bouwen van een community
 
@@ -55,9 +57,7 @@ Oke, duidelijk maar wat is dan de definitie van community?
 
 Dit is direct geciteerd uit het boek van <a href="https://www.google.com/search?client=firefox-b-d&q=the+art+of+community+vogl" title="Het boek: The Art of Community van Charles H. Vogl" alt="Het boek The Art of Community van Charles H. Vogl" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft, spreken we niet van een community, maar van een los kluitje mensen. 
 
-Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, zij kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community. Want, als je niet geeft om de welzijn van anderen om je heen vallen die connecties op den duur uit elkaar. Dat is heel logisch, want je gaat niet in op verzoeken van mensen waar je niet mee te maken hoeft te hebben. Als dat vaak genoeg gebeurt, krijg je geen verzoeken meer en valt de **communi**catie weg.
-
-In een toekomstige blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek dat ik eerder heb genoemd. Voor nu wil ik alleen benoemen dat het mogelijk is.
+Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, zij kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community. Want, als je niet geeft om de welzijn van de mensen om je heen vallen die connecties op den duur in duigen. Dat is heel logisch, want je gaat niet in op verzoeken van mensen waar je niet mee te maken hoeft te hebben. Als dat vaak genoeg gebeurt, krijg je geen verzoeken meer en valt de **communi**catie weg.
 
 ### Waarom zouden mensen een blog willen lezen?
 

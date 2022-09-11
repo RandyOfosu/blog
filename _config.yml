@@ -1,13 +1,13 @@
 # Site
 name: "Blog"
 title: "Randy Ofosu"
-description: "Welkom bij mijn open logboek, eeuwig onder constructie."
-logo: 'assets/images/Randus Logo.png'
-favicon: 'assets/images/Randus Logo.png'
+description: "Een logboek met observaties uit mijn dagelijks leven."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-176723044-1'
 # disqus: 'demowebsite'
-mailchimp-list: ''
+mailchimp-list: '83948b05da'
 include: ["_pages"]
 permalink: /:title/
 email: libertas5711@proton.me
@@ -21,7 +21,7 @@ authors:
     email: libertas5711@proton.me
     youtube: https://www.youtube.com/channel/UCNgqL7spRbeniKsQlVu-pTQ
     twitter: https://twitter.com/ogsenatah
-    description: "Nuchtere Nederlander, System Integrator en nieuwsgierige observant."
+    description: "Nuchter, System Integrator en nieuwsgierige observant."
 
 # Plugins
 plugins:

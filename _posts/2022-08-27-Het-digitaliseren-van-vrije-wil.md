@@ -8,6 +8,7 @@ category: [tech, filosofie]
 image: assets\images\lamda-62b025eb0ebf9-sej-1520x800.jpg
 toc: true
 ---
+
 Wat als we de waarste leugen zouden meemaken, zou jij dat dan geloven?
 
 # Black Lemoine & LaMDA
@@ -57,7 +58,7 @@ De Turingtest is een experiment dat checkt of een machine menselijke intelligent
 
 ![Turing Test](\assets\images\what-is-the-turing-test.jpg)
 
-De Chinese kamer gedachte experiment wilt door de discrepanties van _begrijpen_ en het _simuleren van begrijpen_ bewijzen dat het nooit mogelijk is voor een geraffineerde AI om een vrije wil te hebben. Ookal zou die dan de juiste outputs vertonen bij corresponderende inputs.
+De Chinese Kamer gedachte experiment wilt door de discrepanties van _begrijpen_ en het _simuleren van begrijpen_ bewijzen dat het nooit mogelijk is voor een geraffineerde AI om een vrije wil te hebben. Ookal zou die dan de juiste outputs vertonen bij corresponderende inputs.
 
 ![De Chinese kamer](\assets\images\chinese_rule.jpg)
 
