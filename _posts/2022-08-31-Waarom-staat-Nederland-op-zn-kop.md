@@ -27,8 +27,6 @@ Uit een aantal artikelen is het duidelijk dat het gaat om de Nederlandse boeren.
 
 De Nederlandse Agrarische sector staat op de 2e plaats in de wereld als het gaat om het maken van **geld** als _exporteur_. Wij importeren slechts goederen uit onderontwikkelde landen en exporteren het dan naar landen waarmee we deals hebben gesloten. Dat komt doordat Rotterdam nog steeds een grote hub is voor internationale handel.
 
-_Grappig, hoe geschiedenis zich herhaald._
-
 Boeren behoren tot de agrarische sector, horen zij dat niet tevreden te zijn met hun positie‽ Nog iets wat men niet altijd weet is; dat Nederlanders werkzaam in de agrarische sector in de top 3 staan, als het gaat om een risico op [zelfdoding](https://www.113.nl/sites/default/files/113/2020%20middelen/Factsheet%20Sui%CC%88cidaliteit%20onder%20agrarie%CC%88rs.pdf){:target="_blank"}. 
 
 Ik kan niet invullen wat de reden van zelfdoding is, het kan om dingen gaan buiten de agrarische sector. Maar volgens [Arjen](https://www.hartvannederland.nl/nieuws/politiek/vader-van-boer-arjen-pleegde-zelfmoord-om-verstikkende-regels-en-hij-is-niet){:target="_blank"}, [Christel](https://www.rtvoost.nl/nieuws/1721013/aantal-zelfdodingen-in-agrarische-sector-neemt-zorgwekkend-toe){:target="_blank"} en [Leon](https://nieuwscheckers.nl/het-aantal-zelfdodingen-in-de-agrarische-sector-neemt-inderdaad-toe/){:target="_blank"} ligt het aan de gevoel van onzekerheid over de toekomst en felle kritiek vanuit de maatschappij. Dat gevoel van onzekerheid komt voort uit de constant veranderende wet- en regelgeving dat zelden (eigenlijk nooit) in hun voordeel werkt op financieel gebied. De meest recente regelgeving is dan het klimaatbeleid dat het leven van agrariërs nog lastiger maakt. 
