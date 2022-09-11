@@ -39,7 +39,7 @@ Hoe kan het dan waar zijn dat Nederland de nummer 2 exporteur _en_ nummer 3 zelf
 
 Dat zijn allemaal vragen die we onszelf kunnen stellen. Maar wat altijd belangrijk is dat elk land die boeren heeft die moet beschermen. Het heeft te maken met een bron van kennis in een unieke manier van leven die je nooit kwijt wilt. Gebruik je boerenverstand en vraag jezelf af waar dat vandaan komt.
 
-Alle mensen die hun kost verliezen raken ontwricht van de maatschappij en dat kan stilletjes verlopen maar ook heel luid. In beide gevallen is dat onwenselijk dus is het altijd in ons maatschappelijke interesse om te zorgen voor ons eigen. 
+Alle mensen die hun kost verliezen raken ontwricht van de maatschappij en dat kan stilletjes verlopen maar ook heel luid. In beide gevallen is dat onwenselijk dus is het **altijd** in ons maatschappelijke interesse om te zorgen voor ons eigen. 
 
 PS:
 

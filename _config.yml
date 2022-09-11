@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-176723044-1'
 # disqus: 'demowebsite'
-mailchimp-list: '83948b05da'
+mailchimp-list: 'http://eepurl.com/h-urM5'
 include: ["_pages"]
 permalink: /:title/
 email: libertas5711@proton.me
