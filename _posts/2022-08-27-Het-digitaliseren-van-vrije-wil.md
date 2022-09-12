@@ -71,7 +71,7 @@ En dan heb je nog allemaal andere beweringen zoals de:
 
 # Wij falen de Turing test dagelijks
 
-Soms denk ik dan aan tekenfilms en vraag me dan af. Waarom ik figuren zoals Jenny (XJ9), de IJzeren Reus, Wall-E, Karen, Bender, Neptr en BMO wel als echte "personen" zie met mensachtige problemen. Zelfs binnen die groep zie ik verschillende niveaus en afwegingen van typische _robot_ en _mens_ karakteristieken. Wat mist LaMDA dan in vergelijking met de rest?
+Soms denk ik dan aan tekenfilms en vraag me dan af. Waarom ik figuren zoals Jenny (XJ9), de IJzeren Reus, Wall-E, Karen, Bender, Neptr, BMO en Zenyatta wel als echte "personen" zie met mensachtige problemen. Zelfs binnen die groep zie ik verschillende niveaus en afwegingen van typische _robot_ en _mens_ karakteristieken. Wat mist LaMDA dan in vergelijking met de rest?
 
 Sommige mensen die ik tegenkom in het leven zijn net bots, ze hebben geen _soul_ (humor, spontaniteit, eigenaardigheden, doelen, creativiteit, etc). Ik breng veel tijd door op Reddit, Twitch, Youtube en Discord. Sommige berichten, comments of posts laten mij twijfelen of het echt is geschreven door een mens. Er zijn heel wat mensen die de Turing Test op social media niet zouden halen (waaronder ik). Posts en comment sections van jouw favoriete apps zitten vol met bots die impressies of narratieven willen achterlaten. 
 
