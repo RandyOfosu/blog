@@ -11,7 +11,7 @@ toc: true
 
 Wat als we de waarste leugen zouden meemaken, zou jij dat dan geloven?
 
-# Black Lemoine & LaMDA
+# Blake Lemoine & LaMDA
 
 In juni 2022 werd Blake Lemoine ontslagen. Blake werkte op de Responsible-AI afdeling van Google. Hij is ontslagen omdat hij claimde dat LaMDA zelfbewust is geworden. 
 
