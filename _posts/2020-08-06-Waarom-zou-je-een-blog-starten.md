@@ -37,7 +37,7 @@ Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:tex
 
 Het is wel duidelijk dat deze punten allemaal kunnen vallen onder het bloggen. 
 
-Als je kan moet je altijd schrijven voor goedkeuring. Je wordt gedwongen om na te denken voordat je schrijft omdat je weet dat er kritische blikken zijn die meekijken. Dit soort druk doet je alleen maar ten goede omdat je elke _net_ buiten je kunnen moet werken.
+Als je kan moet je altijd schrijven voor acceptatie. Je wordt gedwongen om na te denken voordat je schrijft, omdat je weet dat er kritische blikken zijn die over je schouder meekijken. Dit soort druk doet je alleen maar ten goede omdat je elke keer _net_ buiten je kunnen moet werken.
 
 ## Alles wat je niet gebruikt raak je kwijt.
 

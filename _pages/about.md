@@ -9,7 +9,7 @@ imageshadow: true
 
 Mijn blog gaat over alles wat ik zou willen delen met jullie op het internet. 
 
-Ik neem eigendom over mijn ideeën, uitstraling en expertise. Dit geeft mij de vrijheid om alles te zeggen wat ik wil. Tevens is mijn naam eraan verbonden, dit zal mij motiveren om zoveel mogelijk goed te doen en te beschermen met wat ik kan. Ontgrendel de _echte_ mogelijkheden van de vrijheid op het internet.
+Ik neem eigendom over mijn ideeën, uitstraling en expertise. Dit geeft mij de vrijheid om alles te zeggen wat ik wil. Tevens is mijn naam eraan verbonden, dit zal mij motiveren om zoveel mogelijk goed te doen en het te beschermen met wat ik kan. Ontgrendel de _echte_ mogelijkheden van de vrijheid op het internet.
 
 Ik ben ook immuun voor het de-platform fenomeen. 
 
