@@ -52,7 +52,7 @@ Echter heeft dit te maken met een overkoepelende issue, de zogeheten **Manospher
 
 # Monkey's Paw, Lampgeesten en Les Souhaits ridicules
 ![The Monkey's Paw](\assets\images\monkeys-paw.jpg)
-The Monkey's Paw is een horrorverhaal uit het jaar 1902 geschreven door W.W. Jacobs. In het verhaal krijg je drie wensen als jij in het bezit bent van de apenpoot. Echter hanger er onvoorziene kosten aan de wensen omdat je kloot met het lot. 
+The Monkey's Paw is een horrorverhaal uit het jaar 1902 geschreven door W.W. Jacobs. In het verhaal krijg je drie wensen als jij in het bezit bent van de apenpoot. Echter hangen er onvoorziene kosten aan de wensen omdat je kloot met het lot. 
 
 ![the Ridiculous Wishes](\assets\images\RE0281-G (2).jpg)
 
@@ -87,7 +87,7 @@ De reden achter Mark zijn aanpak ligt hem in het deëscaleren en preventie van w
 
 De reden achter Jimbo zijn aanpak ligt hem in zijn optimistische kijk en vertrouwen in de mensheid. Hij gelooft er heilig in dat er meer goedwillende samaritanen zijn dan kwaadwillende mensen. Zijn analogie is dat:
 
-> We messen niet verbieden uit restaurant omdat mensen het kunnen gebruiken als wapens. We zitten immers niet in kooien als we uiteten gaan. We vertrouwen erop dat als zo'n incident zich voor doet dat er genoeg goedwilldende mensen zijn die er wat tegen doen.
+> We messen niet verbieden uit restaurants omdat mensen het kunnen gebruiken als wapens. We zitten immers niet in kooien als we uiteten gaan. We vertrouwen erop dat als zo'n incident zich voor doet dat er genoeg goedwilldende mensen zijn die er wat tegen doen.
 
 Hij geloofd dat je producten moet designen voor goedwillende mensen, want dan geef je ze de tools om voorspoedig te zijn. Als je gaat designen met kwaadwillende mensen in jouw gedachten, zitten we met z'n allen in kooien als we uiteten gaan.
 
