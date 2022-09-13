@@ -93,7 +93,7 @@ Hij geloofd dat je producten moet designen voor goedwillende mensen, want dan ge
 
 # Conclusie
 
-Ik schrijf dit niet om jouw mening voor jou te vormen. Zelf vind ik dat je mensen niet moet verbannen van social media, maar weet ik ook niet wat ik met ze aan zou moeten. Wat ik probeer te delen zijn mijn observaties zodat je zelf een mening kan vormen -- vandaar al die onbeantwoordde vragen. We kunnen klagen erover maar, ergens moet je hier hyperrealistisch in zijn. 
+Ik schrijf dit niet om jouw mening voor jou te vormen. Zelf vind ik dat je mensen niet moet verbannen van social media, maar weet ik ook niet wat ik met ze aan zou moeten. Daarbij ben ik ook blij met het feit dat ik deze blog heb die los staan van al die social apps. Wat ik probeer te delen zijn mijn observaties zodat je zelf een mening kan vormen -- vandaar al die onbeantwoordde vragen. We kunnen klagen erover maar, ergens moet je hier hyperrealistisch in zijn. 
 
 > I became someone who has discovered the great rewards of deeply understanding, accepting and working with reality as it is. And not as I wish it would be.
 >
