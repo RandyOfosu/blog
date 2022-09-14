@@ -46,7 +46,7 @@ Andrew Tate, Jordan Peterson, Noel Deyzel, Jocko Willink, Asmongold, die cucks v
 Het laatste album van Kendrick Lamar tackled dit ook toevallig.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/28qA8y1sz0FTuSapsCxNOG?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Echter heeft dit te maken met een overkoepelende issue, de zogeheten **Manosphere** -- dat buiten de scope is van deze post. Zelf raad ik deze video van sisyphus55 aan als je meer wilt weten;
+Echter heeft dit te maken met een overkoepelende ontwikkeling, de zogeheten **Manosphere** -- dat buiten de scope is van deze post. Zelf raad ik deze video van sisyphus55 aan als je meer wilt weten;
 
 <iframe width="100%" height="300" src="https://www.youtube-nocookie.com/embed/lSq3bcyrJY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
