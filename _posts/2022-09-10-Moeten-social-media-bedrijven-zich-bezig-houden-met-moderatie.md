@@ -15,7 +15,7 @@ Moderatie is:
 # Wie is Andrew Tate?
 Niemand belangrijk, de meeste mensen weten dat hij een internet personaliteit en voormalig kickbokser is -- hij was legit een goede kickbokser. Wat minder mensen weten is dat hij en zijn broer Tristan hun geld verdienen met myfreecams.com (NSFW). Een [website](https://www.mirror.co.uk/news/uk-news/brothers-make-millions-using-webcam-26508739){:target="_blank"} waarop de broeders webcam girls verkopen aan eenzame mannen. Zelf heb ik daar geen mening over -- vraag en aanbod be like that. Maar onthou 22 supercars, sigaren en kickboks kampioen.
 
-Andrew is gebanned op TikTok, YouTube, Instagram en Facebook -- bij proxy verliest hij hierdoor ook een deel van zijn inkomsten en accounts omdat hij zijn essentiële koppelingen kwijt raakt in deze ban. Denk dan aan hoe jouw gmail/outlook/facebook belangrijke koppelingen zijn geworden in veel van je favoriete (web)apps. De reden voor deze ban heeft te maken met het verspreiden van vrouwenhaat. Maarja, wat had je verwacht van een e-pimp.
+Andrew is gebanned op TikTok, YouTube, Instagram en Facebook -- bij proxy verliest hij hierdoor ook een deel van zijn inkomsten en accounts omdat hij zijn essentiële koppelingen kwijt raakt in deze ban. Denk dan aan hoe jouw gmail/outlook/facebook belangrijke koppelingen zijn geworden in veel van je favoriete (web)apps. De reden voor deze ban heeft te maken met het verspreiden van vrouwenhaat.
 
 Zelf vind ik de keiharde ban zorgwekkend aan beide kanten. Ergens wil je dat iedereen kan zeggen wat ze willen zeggen op social media en de gebruikers laten bepalen of het aandacht krijgt of niet. Maar je wilt ook de gebruikers beschermen tegen andere gebruikers met kwade bedoelingen. 
 
@@ -48,7 +48,7 @@ Het laatste album van Kendrick Lamar tackled dit ook toevallig.
 
 Echter heeft dit te maken met een overkoepelende issue, de zogeheten **Manosphere** -- dat buiten de scope is van deze post. Zelf raad ik deze video van sisyphus55 aan als je meer wilt weten;
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lSq3bcyrJY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube-nocookie.com/embed/lSq3bcyrJY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Monkey's Paw, Lampgeesten en Les Souhaits ridicules
 ![The Monkey's Paw](\assets\images\monkeys-paw.jpg)
