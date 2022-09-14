@@ -27,6 +27,8 @@ Onze verdiensten worden steeds meer geïntegreerd met het internet. Dus maak je 
 
 We paraderen met het karkas van Tate's socials en het volgende wordt gescandeerd: "Waag het niet om zo te zijn, we zullen alles op alles zetten om jou te comprimeren."
 
+Wat ervoor heeft gezorgd dat hij een martelaar is voor velen.
+
 Het argument dat het zelf toegebrachte schade is kan valide zijn. Maar aangezien het internet het echte leven wil imiteren of tracht beter te zijn dan het echte leven. \
 Mag je iemand dan "doden" op het internet als die zich buitenproportioneel misdraagt? Gaan wij zo om met mensen in het echt en heeft dat ooit gewerkt? Wat vind je zelf van de doodstraf en censuur, is dat een nodige kwaad om ons allen te beschermen? \
 Zijn allemaal vragen die ik niet voor iemand kan beantwoorden. Maar ik zou graag willen dat iemand het zelf op deze wijze internaliseert. Anders ga je mee met de grootste stroming.
