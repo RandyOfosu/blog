@@ -13,9 +13,9 @@ Moderatie is:
 > Het proces van het elimineren of minderen van extremen. Het wordt gebruikt om de normaliteit te waarborgen op het medium waarop het wordt uitgevoerd. 
 
 # Wie is Andrew Tate?
-Niemand belangrijk, de meeste mensen weten dat hij een internet personaliteit en voormalig kickbokser is -- hij was legit een goede kickbokser. Wat minder mensen weten is dat hij en zijn broer Tristan hun geld verdienen met myfreecams.com (NSFW). Een [website](https://www.mirror.co.uk/news/uk-news/brothers-make-millions-using-webcam-26508739){:target="_blank"} waarop de broeders webcam girls verkopen aan eenzame mannen. Zelf heb ik daar geen mening over -- vraag en aanbod be like that. Maar onthou 22 supercars, sigaren en kickboks kampioen.
+Niemand belangrijk, de meeste mensen weten dat hij een internet personaliteit en voormalig kickbokser is -- hij was legit een goede kickbokser.
 
-Andrew is gebanned op TikTok, YouTube, Instagram en Facebook -- bij proxy verliest hij hierdoor ook een deel van zijn inkomsten en accounts omdat hij zijn essentiële koppelingen kwijt raakt in deze ban. Denk dan aan hoe jouw gmail/outlook/facebook belangrijke koppelingen zijn geworden in veel van je favoriete (web)apps. De reden voor deze ban heeft te maken met het verspreiden van vrouwenhaat.
+Andrew is gebanned op TikTok, YouTube, Instagram en Facebook -- bij proxy verliest hij hierdoor ook een deel van zijn inkomsten en accounts omdat hij zijn essentiële koppelingen kwijt raakt in deze ban. Denk dan aan hoe jouw gmail/outlook/facebook belangrijke koppelingen zijn geworden in veel van je favoriete (web)apps. De reden voor deze ban is niet officieel of duidelijk, maar wat wordt gezegd dat het te maken heeft met het verspreiden van vrouwenhaat.
 
 Zelf vind ik de keiharde ban zorgwekkend aan beide kanten. Ergens wil je dat iedereen kan zeggen wat ze willen zeggen op social media en de gebruikers laten bepalen of het aandacht krijgt of niet. Maar je wilt ook de gebruikers beschermen tegen andere gebruikers met kwade bedoelingen. 
 
