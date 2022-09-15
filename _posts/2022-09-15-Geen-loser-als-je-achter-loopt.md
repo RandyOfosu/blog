@@ -9,7 +9,7 @@ category: [lifestyle, filosofie]
 toc: true
 ---
 
-Op maandag 5 september 2022 ben ik begonnen met mijn studie Software Engineering aan de Hoge School van Amsterdam. 
+Op maandag 5 september 2022 ben ik begonnen met de studie Software Engineering aan de Hoge School van Amsterdam. 
 
 Wat veel mensen in mijn indirecte omgeving niet weten is dat ik bijna 10 jaren heb gedaan over het MBO. In deze blogpost ga ik hierop reflecteren.
 
