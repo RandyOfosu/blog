@@ -1,7 +1,7 @@
 # Site
-name: "Blog"
-title: "Randy Ofosu"
-description: "Een logboek met observaties uit mijn dagelijks leven."
+name: "Randy Ofosu"
+title: "Blog"
+description: "Niet goed, niet slecht, maar echt."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
