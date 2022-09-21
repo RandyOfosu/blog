@@ -89,7 +89,7 @@ Wat mijn kennis zei was mij toen bijgebleven. Hij is iemand die nooit zoveel zeg
 
 Dus hierom Henry Ford, Amerikaanse industrieel revolutionaire. Zelf vraag ik me af of het nodig is om mensen te laten lijden om te behalen wat je in gedachte hebt.
 
-Hebben mensen uit zichzelf niet genoeg intrinsieke motivatie om het anders dan voor elkaar te krijgen? 
+Hebben mensen uit zichzelf niet genoeg intrinsieke motivatie om het anders voor elkaar te krijgen? 
 
 Ik ben nog niet door zijn biografie maar tot nu toe heb ik het idee dat hij veel van zijn menselijkheid heeft ingeleverd voor het maken van materie en _"arbeid"_.
 
@@ -167,7 +167,7 @@ Banger.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/39ZVgbMu1FA6GQjLA9AeId?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ## UK
-Gym muziek. Is waarschijnlijk muziek waar ik nooit meer zal naar luisteren. Dit soort muziek aged altijd net milk. Maar is wel verfrissend als het net uit is.
+Gym muziek. Is waarschijnlijk muziek waar ik nooit meer naar zal luisteren. Dit soort muziek aged altijd net milk. Maar is wel verfrissend als het net uit is.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0rwOtnvfoBHa443aTwjSlu?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6sT1MeyMK45qXkH8v8NHVi?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5vhrsx08dHh2QcVh1Rsiwt?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
