@@ -143,7 +143,7 @@ Maar hij was onze Anakin.
 
 <sub>**FunFact**: Kanye West mocht geen scheldwoord (ook het op1-woord niet) gebruiken in Through The Wire, anders zou hij de rechten verliezen over de sample van Chaka Khan - Through the Fire. Dat betekent dat Kanye naast dat hij tussen reconstructieve kaakoperaties, zijn rap niet ging over money/clothes/drugs/hoes ook een kijkwijzer vriendelijk nummer heeft gedropt. Waarmee hij ongekende succes behaalde.</sub>
 
-Dus toen hij zijn debutalbum dropte en daardoor prominent werd in de hele HipHop-industrie had dat een ripple effect. Zijn eerste drie studio albums, College Dropout, Late Registration en Graduation waren meesterwerken. We kennen deze reeks als een trilogie maar het was eigenlijk de bedoeling dat het een tetralogie werd. Het laatste album in deze reeks zou GooD Ass JoB heten. Dat zou conscious rap voor altijd hot maken.
+Dus toen hij zijn debutalbum dropte en daardoor prominent werd in de hele HipHop-industrie had dat een ripple effect. Zijn eerste drie studio albums, College Dropout, Late Registration en Graduation waren meesterwerken. We kennen deze reeks als een trilogie maar het was eigenlijk de bedoeling dat het een tetralogie werd. Het laatste album in deze reeks zou GooD Ass JoB heten.
 
 Maar toen verloor hij zijn moeder Donda en jeugdliefde Alexis.
 
@@ -165,9 +165,9 @@ Dit zijn verhalen uit een industrie die mij ongetwijfeld heeft beïnvloedt. Ik h
 
 In het kort kon ik deze blogpost ook beschrijven met 1 zin. "Gebruik je gezonde verstand en denk voor jezelf." Maar dan mis je heel wat context, dus hoop ik dat deze je post je op weg heeft geholpen.
 
-Zelf zie ik deze kwestie optimistisch in. Het begon met de zelfbewustwording hiervan onder de artiesten zelf. Het is niet de eerste keer dat men zichzelf wil losweken van de identiteit als "verlosser". Maar het blijft verfrissend.
+Zelf zie ik deze kwestie optimistisch in. Het begon met de zelfbewustwording onder de artiesten zelf. Het is niet de eerste keer dat men zichzelf wil losweken van de identiteit als "verlosser". Maar het blijft verfrissend.
 
-Tot die tijd probeer ik te onthouden dat ik mensen moet loslaten en de lessen die zij leveren moet koesteren.
+Tot die tijd probeer ik te onthouden dat ik mensen moet loslaten en de lessen die zij leveren mag koesteren.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3drdWsJKiVCSQ2gKhd9BDT?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
