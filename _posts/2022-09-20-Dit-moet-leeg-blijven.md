@@ -20,7 +20,7 @@ Ik ben ook een slachtoffer hiervan.
 
 De schuld ligt nooit **alleen** bij degene op de piëdestal. Dus heb ik besloten om inwaarts te kijken. Als jonge gast heb ik al gauw rolmodellen om naar op te kijken. Dat durf ik nu toe te geven, voorheen dacht ik dat mijn meningen en gedachtes mijn eigen waren. Het idee dat ik de objectieve waarheid/axioma/facts/etc, moest ontrekken uit het mondstuk die het leverde is nog niet iets wat op mijn gedachte zat. Desalniettemin is het een les dat _iedereen_ moet leren.
 
-Als je het iemand point-blank vraagt wie hun idool is zullen ze daar zelden een antwoord op kunnen geven. Niet veel mensen kunnen dat toegeven maar hebben wel Killua als hun profielfoto. Je hebt ook van die types die de achternaam van bekende artiesten appenden aan hun social media account, denk aan de Tesfaye's, Graham's en Jung-kook's. Het manifesteert zich altijd, maar niet altijd op dezelfde manier.
+Als je het iemand point-blank vraagt wie hun idool is zullen ze daar zelden een antwoord op kunnen geven. Niet veel mensen kunnen dat toegeven maar hebben wel Killua als hun profielfoto. Je hebt ook van die types die de achternaam van bekende artiesten appenden aan hun social media account, denk aan de Tesfaye's, Graham's en Jung-kook's. Voor anderen is het materie zoals horloges, auto's, geld, etc. Het manifesteert zich altijd, maar niet altijd op dezelfde manier.
 
 Het was moeilijk voor mij om erachter te komen dat _mijn_ idolen feilbaar zijn. Want ik zou ze ervoor vergeven en zelfs de term "het zijn ook mensen" als [cope](https://www.urbandictionary.com/define.php?term=Copium){:target="_blank"} gebruiken.
 
