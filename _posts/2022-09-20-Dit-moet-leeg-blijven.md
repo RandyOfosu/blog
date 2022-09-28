@@ -5,7 +5,7 @@ author: randy
 image: assets\images\voetstukje.jpg
 date: 2022-09-20
 comments: false
-category: [burgerschap, filosofie, HipHop]
+category: [filosofie, HipHop]
 toc: true
 ---
 
