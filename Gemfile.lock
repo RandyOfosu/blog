@@ -39,6 +39,7 @@ GEM
     eventmachine (1.2.7-x64-mingw32)
     eventmachine (1.2.7-x86-mingw32)
     execjs (2.8.1)
+    ffi (1.15.5-x64-mingw-ucrt)
     ffi (1.15.5-x64-mingw32)
     ffi (1.15.5-x64-unknown)
     ffi (1.15.5-x86-mingw32)
@@ -152,6 +153,7 @@ GEM
     zeitwerk (2.6.1)
 
 PLATFORMS
+  x64-mingw-ucrt
   x64-mingw32
   x64-unknown
   x86-mingw32
